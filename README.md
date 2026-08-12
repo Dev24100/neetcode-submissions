@@ -105,7 +105,7 @@ Solutions are written and maintained as part of my personal DSA learning journey
 
 ## 🏆 Long-Term Goal
 
-Build a strong foundation in:
+Build a strong foundation in::
 
 **DSA + C++ + Problem Solving + Competitive Coding**
 
@@ -113,6 +113,6 @@ and become confident enough to approach unfamiliar coding problems independently
 
 ---
 
-### ⭐ Progress over perfection.
+### ⭐ Progress over perfection..
 
 **Consistency beats intensity when intensity isn't consistent.**
